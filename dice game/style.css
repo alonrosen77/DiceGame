@@ -1,0 +1,32 @@
+.second-player{
+  font-family: 'Ubuntu', sans-serif;
+  color:#00ffbe;
+}
+body{
+  text-align: center;
+  background-color: #808080 !important;
+}
+.first-player{
+  margin-right:30%;
+  font-family: 'Ubuntu', sans-serif;
+  color:#00ffbe;
+}
+.dice-section{
+  margin-top:2.5%;
+}
+.first-dice{
+  margin-right: 31.25%;
+}
+.dices{
+  color:#ff4e41;
+}
+.crap-right{
+  position: absolute;
+  right: 30%;
+  bottom: 75%;
+}
+.crap-left{
+  position: absolute;
+  left: 30%;
+  bottom: 75%;
+}
